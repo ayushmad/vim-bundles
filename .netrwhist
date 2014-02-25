@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/home/ayushman/.vim/bundle'
-let g:netrw_dirhist_2='/home/ayushman/.vim'
-let g:netrw_dirhist_3='/home/ayushman/.vim/bundle'
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/ayushmad/workspace/ia_project/data_processing/hpcc/src'
+let g:netrw_dirhist_2='/home/ayushmad/workspace/pjeuler/quora/feed_optimizer/py-imp'
+let g:netrw_dirhist_3='/home/ayushmad/workspace/ia_project/data_visualization/base_page/app/assets/stylesheets'
+let g:netrw_dirhist_4='/home/ayushmad/workspace/ia_project/data_visualization/base_page/app/views/layouts'
+let g:netrw_dirhist_5='/home/ayushmad/workspace/ia_project/internet_archive_visualization/app/controllers'
+let g:netrw_dirhist_6='/home/ayushmad/workspace/ia_project/data_visualization/base_page/db/migrate'
+let g:netrw_dirhist_7='/home/ayushmad/workspace/ia_project/internet_archive_visualization/app/models'
+let g:netrw_dirhist_8='/home/ayushmad/workspace/ia_project/internet_archive_visualization/app/assets/javascripts'
